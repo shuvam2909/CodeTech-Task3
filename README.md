@@ -6,7 +6,7 @@
 ## Mentor:
 
 # Overview of a Video Game Sales Analysis Project 
-       A Video Game Sales Analysis project is a classic example of a data science and exploratory data analysis (EDA) project. The primary goal is to analyze a dataset of video game sales to derive meaningful insights and identify trends. Below is a structured overview:
+## A Video Game Sales Analysis project is a classic example of a data science and exploratory data analysis (EDA) project. The primary goal is to analyze a dataset of video game sales to derive meaningful insights and identify trends. Below is a structured overview:
 
 # 1. Objective
 ## Understand sales patterns : 
@@ -32,8 +32,8 @@ Predict future sales patterns or popular genres/platforms using historical data.
 # 3. Steps in the Analysis
 
 ## 3.1 Data Cleaning
-    Handle missing or inconsistent data (e.g., Year of Release, Publisher).
-    Check for outliers and duplicates.
+* Handle missing or inconsistent data (e.g., Year of Release, Publisher).
+* Check for outliers and duplicates.
 ## 3.2 Exploratory Data Analysis (EDA)
 ## Descriptive Statistics:
    Summarize key numerical features like average, median, and distribution of sales.
