@@ -18,16 +18,16 @@ Predict future sales patterns or popular genres/platforms using historical data.
 
 # 2. Dataset
  ## Typical Features:
- Name: Name of the video game.
- Platform: Platform on which the game was released (e.g., PS4, Xbox, PC).
- Year of Release: Year the game was released.
- Genre: Game genre (e.g., Action, Sports, RPG).
- Publisher: Company publishing the game.
- NA_Sales: Sales in North America (in millions).
- EU_Sales: Sales in Europe (in millions).
- JP_Sales: Sales in Japan (in millions).
- Other_Sales: Sales in other regions.
- Global_Sales: Total global sales (sum of the regional sales).
+* Name: Name of the video game.
+* Platform: Platform on which the game was released (e.g., PS4, Xbox, PC).
+* Year of Release: Year the game was released.
+* Genre: Game genre (e.g., Action, Sports, RPG).
+* Publisher: Company publishing the game.
+* NA_Sales: Sales in North America (in millions).
+* EU_Sales: Sales in Europe (in millions).
+* JP_Sales: Sales in Japan (in millions).
+* Other_Sales: Sales in other regions.
+* Global_Sales: Total global sales (sum of the regional sales).
 
 # 3. Steps in the Analysis
 
