@@ -1,9 +1,9 @@
-Name : SHUVAM PANDAY J
-Company : CODTECH IT SOLUTIONS
-ID : CT08DS42
-Domain : DATA SCIENCTIST
-Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
-Mentor : Neela Santhosh Kumar
+### Name : SHUVAM PANDAY J
+### Company : CODTECH IT SOLUTIONS
+### ID : CT08DS42
+### Domain : DATA SCIENCTIST
+### Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
+### Mentor : Neela Santhosh Kumar
 
 
 ## Overview of a Creditworthiness Scoring Engine Classification Project
