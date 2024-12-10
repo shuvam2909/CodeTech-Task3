@@ -1,9 +1,9 @@
-## Name:SHUVAM PANDAY J
-## Company:CODTECH IT SOLUTIONS
-## ID:CT08DS42
-## Domain: DATA SCIENCTIST
-## Duration:NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
-## Mentor:
+## Name : SHUVAM PANDAY J
+## Company : CODTECH IT SOLUTIONS
+## ID : CT08DS42
+## Domain : DATA SCIENCTIST
+## Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
+## Mentor : 
 
 ## Overview of a Video Game Sales Analysis Project 
 A Video Game Sales Analysis project is a classic example of a data science and exploratory data analysis (EDA) project. The primary goal is to analyze a dataset of video game sales to derive meaningful insights and identify trends. Below is a structured overview:
