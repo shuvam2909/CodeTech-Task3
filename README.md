@@ -1,3 +1,11 @@
+Name : SHUVAM PANDAY J
+Company : CODTECH IT SOLUTIONS
+ID : CT08DS42
+Domain : DATA SCIENCTIST
+Duration : NOVEMBER 25th, 2024 to DECEMBER 25th, 2024.
+Mentor : Neela Santhosh Kumar
+
+
 ## Overview of a Creditworthiness Scoring Engine Classification Project
 The Creditworthiness Scoring Engine project aims to assess the creditworthiness of individuals or businesses by predicting their likelihood of repaying loans or credit obligations. This is typically framed as a classification problem in machine learning, where the goal is to classify applicants into categories such as creditworthy or non-creditworthy.
 
